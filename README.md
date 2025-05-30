@@ -13,7 +13,7 @@ I'm a Computer Science student at JKUAT, passionate about AI/ML, data science, a
 ## 🎯 Goals for 2025  
 - **AI/ML Mastery**: Strengthen my expertise in AI, ML, and data science.  
 - **Tech Community Leadership**: Organizing tech events as the **ELP Tech Hub Organizing Secretary**.  
-- **Personal Branding**: Sharing AI/ML insights on LinkedIn.  
+
 
 ## 📚 Learning & Exploring  
 - **Figma for UI/UX** 🎨 (Enhancing my design skills)
