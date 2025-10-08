@@ -1,28 +1,54 @@
-# Hi there! 👋 I'm Rotich Kibet
+# 👋 Hi there! I'm Rotich Kibet  
 
 ## 🚀 About Me  
-I'm a Computer Science student at JKUAT, passionate about AI/ML, data science, and web application development. I aim to make Kenya a leading AI hub in Africa. Currently, I'm focused on building my skills in AI, leadership, and public speaking.  
+I'm a Computer Science student at **JKUAT**, passionate about **Artificial Intelligence, Machine Learning, and Backend Development**.  
+I’m driven by the vision of making **Kenya a global leader in AI innovation** through practical, impactful tech solutions.  
 
-## 🔭 What I'm Working On  
-- **Banana Ripeness Classification & Value Addition** (AI-powered classification using Django & ML) 🍌
-- **Email Priority Classifier** (Based on SMS Spam dataset) 📧
-- **Enron Email Classifier** (Using the Enron Email dataset) 📨
-- **Building a Neural Network from scratch** (Minimal library implementation) 🧠
-- **Final Year AI-Based Project** (Exploring NLP, Computer Vision, and industry-relevant AI applications) 🎓
+Currently, I’m focused on building **AI-driven systems**, improving my **MLOps and data engineering skills**, and mentoring others in tech communities.  
 
-## 🎯 Goals for 2025  
-- **AI/ML Mastery**: Strengthen my expertise in AI, ML, and data science.  
-- **Tech Community Leadership**: Organizing tech events as the **ELP Tech Hub Organizing Secretary**.  
+---
 
+## 💡 What I'm Working On  
 
-## 📚 Learning & Exploring  
-- **Figma for UI/UX** 🎨 (Enhancing my design skills)
-- **Functional Testing** 🛠️ (For web apps and AI models)
-- **AI in Startups** 🚀 (Exploring AI solutions for small businesses)
+- 📈 **Customer Churn Prediction & Retention System** — XGBoost-based ML model for telco churn detection, wrapped in a FastAPI backend and Streamlit dashboard with SHAP explainability and retention recommendations.  
+- 🧠 **Pneumonia Detection System** — CNN + ResNet model for X-ray diagnosis, Flask backend for deployment.  
+- 🍌 **Banana Ripeness Classification & Value Addition Platform** — CV model + Django API + knowledge base for banana products.  
+- 🌾 **Zaodoc – Maize Disease Detection** — Transformer + CNN pipeline for early disease diagnosis in crops.  
+- 🧮 **Spam Email Classification API** — Flask API using TF-IDF and Random Forest for real-time spam detection.  
+- 🔢 **MNIST Digit Classifier** — Neural network trained on MNIST dataset for educational and benchmarking purposes.  
+- 🤖 **LLM & Generative AI Experiments** — Fine-tuning small-scale models and building Swahili-focused NLP tools.  
+ 
+
+---
+
+## 🎯 2025 Goals  
+- **Deepen expertise** in AI/ML, NLP, and MLOps.  
+- **Build open-source AI projects** that solve real African problems.  
+- **Grow as a tech leader and mentor**, inspiring more students to pursue AI.  
+- **Contribute to AI policy and innovation efforts** in Africa.  
+
+---
+
+## 🧩 Skills & Tools  
+**Languages:** Python, SQL, JavaScript, C++  
+**Frameworks:** Django, Flask, PyTorch, TensorFlow, FastAPI  
+**AI/ML:** NLP, Computer Vision, Transformers, YOLO, OpenCV, Scikit-learn  
+**Data Tools:** Pandas, NumPy, Power BI, Matplotlib, Seaborn  
+**Cloud & DevOps:** Azure, Docker, CI/CD, Git, Postman, Insomnia
+**Databases:** PostgreSQL, MySQL, MongoDB  
+
+---
+
+## 🧭 Leadership & Community  
+- **Organizing Secretary – ELP Tech Hub:** Leading data science sessions and community mentorship (30+ weekly attendees).  
+- **GDG JKUAT Track Lead – Data Science:** Teaching data science fundamentals and guiding students through real projects.  
+
+---
 
 ## 🌍 Connect With Me  
-- 💼 LinkedIn (https://www.linkedin.com/in/rotichkibet/)
-- 📧 Email: asbelkibetrotich@gmail.com  
-- 🔗 [Portfolio](https://www.datascienceportfol.io/asbelkibetrotich)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/rotichkibet/)  
+- 📧 **rotichkibetasbel@gmail.com**  
+- 💻 [Portfolio](https://kibet-rotich.github.io/)  
+- 🧠 [GitHub](https://github.com/Kibet-Rotich)  
 
-Let's build the future of AI together! 🚀
+Let’s build the future of AI — one project at a time 🚀  
