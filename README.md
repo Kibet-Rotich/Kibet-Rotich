@@ -9,50 +9,49 @@
 ---
 
 ## 🚀 About Me  
-🎓 I'm a **Computer Science student at JKUAT**, passionate about **Artificial Intelligence, Machine Learning, and Backend Development**.  
-🌍 I’m driven by the vision of making **Kenya a global leader in AI innovation** through practical, impactful tech solutions.  
+🎓 I'm a **Final Year Computer Science student at JKUAT**, specializing as an **ML Engineer** with a deep interest in **High-Performance Systems**.  
+🌍 I am driven by the mission of making **Kenya a global leader in AI innovation**. My current focus is on building production-grade AI solutions while mentoring others to grow the local tech ecosystem.  
 
-Currently, I’m focused on building **AI-driven systems**, improving my **MLOps and data engineering skills**, and mentoring others in tech communities.  
+Currently, I am bridging the gap between **Machine Learning** and **Low-Level Engineering**, exploring how C++ can power the next generation of high-performance African tech.
 
 ---
 
-## 💡 What I'm Working On  
+## 💡 Featured Projects  
 
 | Project | Description | Tech Stack |
-|----------|--------------|-------------|
-| 📈 **Customer Churn Prediction System** | XGBoost-based ML model for telco churn detection with FastAPI backend & Streamlit dashboard (SHAP explainability). | FastAPI, XGBoost, Streamlit, SHAP |
-| 🧠 **Pneumonia Detection System** | CNN + ResNet model for X-ray diagnosis with Flask backend deployment. | TensorFlow, Flask, OpenCV |
-| 🍌 **Banana Ripeness Classification Platform** | CV model + Django API + knowledge base for banana value addition. | Django, TensorFlow, PostgreSQL |
-| 🌾 **Zaodoc – Maize Disease Detection** | Transformer + CNN pipeline for early crop disease diagnosis. | PyTorch, Transformers, OpenCV |
-| 🧮 **Spam Email Classification API** | Flask API using TF-IDF + Random Forest for real-time spam detection. | Flask, scikit-learn, NLTK |
-| 🔢 **MNIST Digit Classifier** | Neural network trained on MNIST dataset for educational and benchmarking purposes. | PyTorch, TensorFlow |
-| 🤖 **LLM & Generative AI Experiments** | Fine-tuning Swahili-focused NLP and small-scale LLMs. | Hugging Face, Transformers |
+|:---------|:-------------|:------------|
+| 🌾 **Zaodoc – Maize Disease Detection** | **(Active)** Transformer + CNN pipeline for early crop disease diagnosis and food security. | PyTorch, Transformers, OpenCV |
+| 🏬 **Cenocade Enterprises** | **(Active)** Building a scalable, high-performance e-commerce ecosystem for local business. | FastAPI, PostgreSQL, Docker |
+| ⚙️ **High-Performance Lab** | **(WIP)** Building low-level systems (HTTP servers, protocol implementations) to master system internals. | C++, Network Programming |
+
+> **Archive:** *Previous 2025 projects (Pneumonia Detection, Banana Ripeness, etc.) can be found in my [Repository Archive](https://github.com/Kibet-Rotich?tab=repositories).*
 
 ---
 
-## 🎯 2025 Goals  
-✅ Deepen expertise in **AI/ML, NLP, and MLOps**  
-✅ Build **open-source AI projects** solving African challenges  
-✅ Grow as a **tech leader and mentor** through community teaching  
-✅ Contribute to **AI policy and innovation** in Africa  
+## 🎯 2026 Goals  
+✅ Transition into a **Full-Time Machine Learning Engineering** role.  
+✅ Deeply upskill in **Low-Level, High-Performance Systems** using C++.  
+✅ Build and scale a **software solution** that serves a large, active user base.  
+✅ Master **System Design** through intensive study of industry-standard architectural literature.  
 
 ---
 
 ## 🧩 Skills & Tools  
 
-**💻 Languages:** Python, SQL, JavaScript, C++  
-**⚙️ Frameworks:** Django, Flask, PyTorch, TensorFlow, FastAPI  
-**🧠 AI/ML:** NLP, Computer Vision, Transformers, YOLO, OpenCV, Scikit-learn  
-**📊 Data Tools:** Pandas, NumPy, Power BI, Matplotlib, Seaborn  
-**☁️ Cloud & DevOps:** Azure, Docker, CI/CD, Git, Postman, Insomnia  
-**🗄 Databases:** PostgreSQL, MySQL, MongoDB  
+**💻 Languages:** Python, **C++ (Systems Programming)**, SQL, JavaScript  
+**⚙️ Frameworks:** **FastAPI**, Django, Flask, PyTorch, TensorFlow  
+**🧠 AI/ML:** Computer Vision, NLP, Transformers, Scikit-learn, MLOps  
+**📊 Data & Finance:** Pandas, NumPy, Financial Modeling (MMFs, Bonds, Stocks)  
+**☁️ Cloud & DevOps:** Docker, CI/CD, Git, Azure, Postman  
+**🏛️ Architecture:** System Design, Database Engines, High-Performance Computing  
 
 ---
 
 ## 🧭 Leadership & Community  
 
-- 🧑🏽‍💼 **Organizing Secretary – ELP Tech Hub:** Led data science mentorship & workshops (30+ weekly attendees).  
-- 🌐 **GDG JKUAT Track Lead – Data Science:** Guided students through hands-on ML & analytics projects.  
+- 🧑🏽‍💼 **Former Organizing Secretary – ELP Tech Hub:** Revitalized the community through data science workshops and capped the year with a successful milestone gala.  
+- 🌐 **Tech Community Catalyst:** Currently planning larger-scale events and initiatives to foster AI/ML excellence in Kenya.  
+- 📖 **Mentor:** Actively teaching and sharing knowledge in DSA, Backend Development, and Machine Learning.
 
 ---
 
@@ -67,4 +66,4 @@ Currently, I’m focused on building **AI-driven systems**, improving my **MLOps
 
 ---
 
-⭐ *“Let’s build the future of AI — one project at a time.”* 🚀
+⭐ *“Building Kenya's AI future—one high-performance system at a time.”* 🚀
